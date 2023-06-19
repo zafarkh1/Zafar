@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "branchName": "Havas-Uchtepa",
+    "marketId": 1
+  },
+  {
+    "id": 2,
+    "branchName": "Havas-Chilonzor",
+    "marketId": 1
+  },
+  {
+    "id": 3,
+    "branchName": "Makro-Xalqlar-Do'stligi",
+    "marketId": 2
+  },
+  {
+    "id": 4,
+    "branchName": "Makro-Yunusobod",
+    "marketId": 2
+  },
+  {
+    "id": 5,
+    "branchName": "Korzinka-Sergeli",
+    "marketId": 3
+  },
+  {
+    "id": 6,
+    "branchName": "Korzinka-Qo'yliq",
+    "marketId": 3
+  }
+]
