@@ -1,14 +1,14 @@
 [
-  {
-    "id": 1,
-    "marketName": "Havas"
-  },
-  {
-    "id": 2,
-    "marketName": "Makro"
-  },
-  {
-    "id": 3,
-    "marketName": "Korzinka"
-  }
+    {
+        "id": 1,
+        "marketName": "Havas"
+    },
+    {
+        "id": 2,
+        "marketName": "Makro"
+    },
+    {
+        "id": 3,
+        "marketName": "Korzinka"
+    }
 ]

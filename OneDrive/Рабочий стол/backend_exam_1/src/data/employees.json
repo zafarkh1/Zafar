@@ -1,32 +1,38 @@
 [
-	{
-		"id": 1,
-		"name": "John",
-		"branchId": 1
-	},
-	{
-    "id": 2,
-    "name": "Mark",
-    "branchId": 2
-  },
-	{
-    "id": 3,
-    "name": "Bill",
-    "branchId": 3
-  },
-	{
-    "id": 4,
-    "name": "Elon",
-    "branchId": 4
-  },
-	{
-    "id": 5,
-    "name": "Jeff",
-    "branchId": 5
-  },
-	{
-    "id": 6,
-    "name": "Jack",
-    "branchId": 6
-  }
+    {
+        "id": 1,
+        "name": "John",
+        "gender": "male",
+        "branchId": 1
+    },
+    {
+        "id": 2,
+        "name": "Mark",
+        "gender": "male",
+        "branchId": 2
+    },
+    {
+        "id": 3,
+        "name": "Georgina",
+        "gender": "female",
+        "branchId": 3
+    },
+    {
+        "id": 4,
+        "name": "Elon",
+        "gender": "male",
+        "branchId": 4
+    },
+    {
+        "id": 5,
+        "name": "Jeff",
+        "gender": "male",
+        "branchId": 5
+    },
+    {
+        "id": 6,
+        "name": "Serena",
+        "gender": "female",
+        "branchId": 6
+    }
 ]
