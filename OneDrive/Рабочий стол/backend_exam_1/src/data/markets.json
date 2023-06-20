@@ -1,14 +1,26 @@
 [
     {
-        "id": 1,
-        "marketName": "Havas"
-    },
-    {
         "id": 2,
-        "marketName": "Makro"
+        "branchName": "Chilonzor"
     },
     {
         "id": 3,
-        "marketName": "Korzinka"
+        "branchName": "Xalqlar-Do'stligi"
+    },
+    {
+        "id": 4,
+        "branchName": "Yunusobod"
+    },
+    {
+        "id": 5,
+        "branchName": "Sergeli"
+    },
+    {
+        "id": 6,
+        "branchName": "Qo'yliq"
+    },
+    {
+        "id": 1,
+        "branchName": "Jizzax"
     }
 ]
